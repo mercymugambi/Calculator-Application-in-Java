@@ -1,1 +1,1 @@
-# Calculator-in-Java-swift
+# Calculator application in java
